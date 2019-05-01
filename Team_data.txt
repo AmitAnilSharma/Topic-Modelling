@@ -1,0 +1,7 @@
+Topic :  A Comparison of LSA and LDA for the Topic
+Modelling of News Dataset 
+
+Team: I have done a single project.
+
+Name: Amit Sharma
+Roll no: 167204
